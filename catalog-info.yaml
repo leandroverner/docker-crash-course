@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: docker-crash-course
+  annotations:
+    github.com/project-slug: leandroverner/docker-crash-course
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
