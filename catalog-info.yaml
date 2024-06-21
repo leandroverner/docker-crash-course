@@ -4,6 +4,7 @@ metadata:
   name: docker-crash-course
   annotations:
     github.com/project-slug: leandroverner/docker-crash-course
+    backstage.io/techdocs-ref: tests
 spec:
   type: other
   lifecycle: unknown
